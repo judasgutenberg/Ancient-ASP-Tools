@@ -856,6 +856,6 @@ All major transactions made here were logged to a file at <a href=http://content
 If you go there, be sure to hit refresh.
 </font>
 <font face=arial size=3>
-<p>Return to the <a href=http://devoffice.office.collegeclub.com/update/cop.asp>Copy Over Page</a></font>
+<p>Return to the <a href=http://devoffice.office.xxxxx.com/update/cop.asp>Copy Over Page</a></font>
 </body>
 </html>
